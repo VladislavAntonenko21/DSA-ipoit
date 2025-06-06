@@ -14,6 +14,7 @@ public class C_QSortOptimized {
         }
     }
 
+
     int[] getAccessory2(InputStream stream) {
         Scanner scanner = new Scanner(stream);
         int n = scanner.nextInt();
