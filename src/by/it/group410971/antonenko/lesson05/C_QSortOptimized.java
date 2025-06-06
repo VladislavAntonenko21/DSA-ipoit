@@ -12,6 +12,7 @@ public class C_QSortOptimized {
         for (int index : result) {
             System.out.print(index + " ");
         }
+
     }
 
 
