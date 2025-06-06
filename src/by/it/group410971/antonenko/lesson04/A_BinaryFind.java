@@ -48,6 +48,7 @@ public class A_BinaryFind {
             } else if (array[mid] < target) {
                 left = mid + 1;
             } else {
+
                 right = mid - 1;
             }
         }
